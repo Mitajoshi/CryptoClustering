@@ -13,7 +13,8 @@ In order to successfully run the code in the Jupyter Notebook file, Crypto_Clust
 In this exercise, the original dataset was first scaled and then the optimal k-value was discovered using the elbow method. The data was then clustered using the ideal k-value and the k-means algorithm. The data was clustered into two neat groups. There appeared to be 2 outlier labels. 
 The dataset was then run through the PCA method to reduce the features of the original dataset. The optimal k-value was again determined for the datset with fewer features and it appears that it is the same as with the original dataset. The PCA dataframe was then analysed using the k-means algorithm and similar clusters were obtained. 
 
-![image](https://github.com/Mitajoshi/CryptoClustering/assets/142932546/a7bfb900-b6c1-4904-a33c-50b314056dc9)
+![image](https://github.com/Mitajoshi/CryptoClustering/assets/142932546/03d4b70e-51cf-4aa0-a7f7-92d151258931)
+
 k-value comparison
 
 
